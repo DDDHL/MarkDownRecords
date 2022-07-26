@@ -1,0 +1,26 @@
+/* [
+      '@vuepress-reco/vuepress-plugin-bgm-player',
+      {
+        audios: [
+          {
+            name: ' スパークル',
+            artist: ' RADWIMPS',
+            url: 'https://cdn.jsdelivr.net/gh/dddhl/source/huohua.mp3',
+            cover: 'https://cdn.jsdelivr.net/gh/dddhl/source/huohua.jpg',
+          },
+          {
+            name: ' 我爱你',
+            artist: ' Ayasa绚沙',
+            url: 'https://cdn.jsdelivr.net/gh/dddhl/source/ILOVEU.mp3',
+            cover: 'https://cdn.jsdelivr.net/gh/dddhl/source/123.png',
+          },
+        ],
+        autoplay: true,
+        // 是否默认缩小
+        autoShrink: false,
+        // 缩小时缩为哪种模式
+        shrinkMode: 'float',
+        // 悬浮窗样式
+        floatStyle: { bottom: '10px', 'z-index': '999999' },
+      },
+    ], */
